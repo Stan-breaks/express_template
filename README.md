@@ -21,7 +21,7 @@ This is a simple Express.js template that includes a User model and handles user
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/express-auth-template.git
+git clone https://github.com/stan-breaks/express-template.git
 
 2. Install NPM packages
 
@@ -44,4 +44,3 @@ Now, you can register and login users through the auth/register and auth/login r
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ```
-
