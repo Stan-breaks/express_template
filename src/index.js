@@ -19,9 +19,6 @@ app.use(
   }),
 );
 
-//ussdAuth
-app.use("/ussdAuth", require("./routes/authUssd"));
-
 //auth routes
 app.use("/auth", require("./routes/auth"));
 
